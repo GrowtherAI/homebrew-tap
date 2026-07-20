@@ -1,0 +1,19 @@
+Copyright (c) 2026 Growther.ai. All rights reserved.
+
+This repository is the official Homebrew tap for Growther.ai C5. The Homebrew
+formula and other materials herein are provided by Growther.ai solely to install
+the proprietary Growther.ai C5 software.
+
+The Growther.ai C5 software is proprietary and confidential to Growther.ai, and its
+use is governed exclusively by the Growther.ai End User License Agreement and Terms
+of Service available at https://growther.ai/terms. By installing or using the
+software via this tap, you agree to be bound by that agreement.
+
+Except as expressly permitted by Growther.ai or by applicable law, no license or
+right is granted to redistribute, repackage, or create derivative works of the
+Growther.ai C5 software.
+
+THE MATERIALS IN THIS REPOSITORY AND THE SOFTWARE THEY INSTALL ARE PROVIDED
+"AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL
+GROWTHER.AI BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THESE MATERIALS OR THE SOFTWARE.
