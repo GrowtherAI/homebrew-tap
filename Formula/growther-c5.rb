@@ -2,23 +2,23 @@
 class GrowtherC5 < Formula
   desc "Growther.ai C5 — self-contained V8-bytecode agent runtime"
   homepage "https://growther.ai"
-  version "2026.9.10-v271"
+  version "2026.9.10-v272"
 
   on_macos do
     if Hardware::CPU.arm?
-      url "https://raw.githubusercontent.com/growtherai/release/main/dist/c5/v2026.9.10-v271/growther-node22-macos-arm64.tar.gz"
-      sha256 "e311ff039b56f8cf7d429a08d49b97b9516e7dd9d7d37e27b2cd971ebde02d32"
+      url "https://raw.githubusercontent.com/growtherai/release/main/dist/c5/v2026.9.10-v272/growther-node22-macos-arm64.tar.gz"
+      sha256 "a39264d2908001527c126aa6a2325a6b564e63edb6e22dbe25b42db1855f1fae"
     end
     if Hardware::CPU.intel?
-      url "https://raw.githubusercontent.com/growtherai/release/main/dist/c5/v2026.9.10-v271/growther-node22-macos-x64.tar.gz"
-      sha256 "de9431084c2e0f2df4c557a0c8794b2a5217ac6adb15a83db7b858833a1ddd04"
+      url "https://raw.githubusercontent.com/growtherai/release/main/dist/c5/v2026.9.10-v272/growther-node22-macos-x64.tar.gz"
+      sha256 "b67da7535ce16f63f2a6be5662bcdda4c25ce7d2c73a7f356d28477ffeb34165"
     end
   end
 
   on_linux do
     if Hardware::CPU.intel?
-      url "https://raw.githubusercontent.com/growtherai/release/main/dist/c5/v2026.9.10-v271/growther-node22-linux-x64.tar.gz"
-      sha256 "11c876722b7199d40928b502bbea52543abd14ae43c45cd842070478246832fa"
+      url "https://raw.githubusercontent.com/growtherai/release/main/dist/c5/v2026.9.10-v272/growther-node22-linux-x64.tar.gz"
+      sha256 "21a950ed0be068464799b6f8c7f4e1b34854d74acdd232124076b5ea6f668e5c"
     end
   end
 
